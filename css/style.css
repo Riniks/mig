@@ -85,7 +85,7 @@ section {
 }
 .header-background {
   height: calc(100vh - 48px);
-  background-image: url(/assets/img/construction_team_leasing_background_4.png);
+  background-image: url(./assets/img/construction_team_leasing_background_4.png);
   position: relative;
   background-size: cover;
   background-position: 30%;
