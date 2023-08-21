@@ -1,0 +1,54 @@
+{
+  "en": {
+    "menu_section_one": "Services",
+    "menu_section_two": "About us",
+    "menu_section_three": "Contact",
+    "background_header": "MIG CONSTRUCTION",
+    "background_text": "Construction Teams Leasing Poznan\nMIG is a construction teams leasing business in Poznan, Poland. We provide high-quality service to help you get the job done quickly, efficiently and on budget. Our team is experienced, reliable and dedicated to your satisfaction. Contact us today for a free quote!",
+    "services_header": "Services",
+    "first_service_content": "We provide comprehensive construction services. In our ranks we bring together professionals ready to take on any new project. The experience gained so far confirms that MIG Construction is successful both in the construction of new facilities and in the modernization of existing ones.\n\nWe have a permanent base of several hundred construction specialists from various fields, whom we are ready to engage in your project!",
+    "about_us_header": "Info",
+    "about_us_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel turpis in leo condimentum pretium quis ac magna. Sed luctus aliquet rutrum. In vitae ex in tellus mattis porttitor. Proin faucibus commodo libero, quis consequat justo vehicula ut. Nulla enim quam, scelerisque eu neque a, commodo tempor eros. Fusce vel ante elit. Curabitur non semper enim. Suspendisse condimentum, quam eu suscipit vehicula, massa felis laoreet nisl, eget varius leo nibh interdum dolor. Nullam nec neque iaculis, sagittis augue ac, euismod ante. Proin elementum ex sit amet neque finibus, in finibus libero consequat. Aliquam erat volutpat. Maecenas ultrices rutrum sodales. Ut nec orci nec dui ornare congue. Nunc et lacus at arcu vulputate commodo. Nullam efficitur lacus nulla, a pulvinar libero suscipit et. Phasellus porta velit sapien, id molestie diam dictum id. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut orci justo, porttitor eget sollicitudin sit amet, imperdiet ornare sapien.",
+    "pictogram_header": "Piktogramy",
+    "pictogram_content": "MIG Construction was created from experience. In the initial years, the undertaking was based on single orders, carried out by trusted and proven professionals. The practice gained allowed to turn into a larger-scale enterprise, including winning over satisfied customers and reliable business partners. \n\nWe operate all over Europe.",
+    "pictogram_person_description_one": "Marek \nSales Manager",
+    "companyInfo": {
+      "name": "MIG Construction sp. z o.o.",
+      "taxData": "KRS number: 0000918529",
+      "address": "Address: Święty Marcin 29/8 Street\n61-806 Poznań"
+    }
+  },
+  "pl": {
+    "menu_section_one": "O nas",
+    "menu_section_two": "Usługi",
+    "menu_section_three": "Oferta",
+    "menu_section_four": "Kontakt",
+    "background_header": "MIG CONSTRUCTION",
+    "background_text": "Jesteśmy młodą firmą, która chce zrewolucjonizować branżę budowlaną. Nasze doświadczenie z różnych dziedzin przekładamy na innowacyjne rozwiązania, dzięki czemu do każdego Klienta podchodzimy indywidualnie. ",
+    "services_header": "Usługi",
+    "first_service_content": "Świadczymy kompleksowe usługi budowlane. W swoich szeregach zrzeszamy fachowców gotowych podjąć się każdego nowego projektu. Dotychczasowe doświadczenie potwierdza, że sprawdzamy się zarówno przy budowie nowych obiektów, jak i modernizacji już istniejących. \n\n Posiadamy stałą, kilkusetosobową bazę specjalistów budowlanych z różnych dziedzin, których jesteśmy gotowi zaangażować w Twój projekt!",
+    "about_us_header": "MIG Construction sp. z o.o.",
+    "about_us_content": "Jesteśmy młodą firmą, która chce zrewolucjonizować branżę budowlaną. Nasze doświadczenie z różnych dziedzin przekładamy na innowacyjne rozwiązania, dzięki czemu do każdego Klienta podchodzimy indywidualnie. Jesteśmy w trakcie tworzenia aplikacji, która umożliwi pracownikom budowlanym łatwe znalezienie pracy, odpowiadającą ich kwalifikacjom i preferencjom. Dzięki naszej aplikacji pracodawcy mają dostęp do bazy najlepszych specjalistów z branży budowlanej i mogą w łatwy sposób znaleźć pracowników, którzy sprostają wymaganiom ich projektów",
+    "pictogram_header": "Co nas wyróżnia? ",
+    "pictogram_content": "",
+    "pictogram_description_header_one": "Innowacyjność",
+    "pictogram_person_description_one": "Jesteśmy w trakcie tworzenia nowego rozwiązania w postaci aplikacji dla ułatwienia procesu rekrutacji.",
+    "pictogram_description_header_two": "Elastyczność",
+    "pictogram_person_description_two": "Możemy dostosować ilość potrzebnych pracowników w każdym momencie.",
+    "pictogram_description_header_three": "Pracowitość",
+    "pictogram_person_description_three": "współpracujemy z ludźmi, którzy nie boją się wyzwań, dlatego nie zawiedziesz się na naszych pracownikach.",
+    "who_we_can_find_header": "Kogo możemy Ci znaleźć?",
+    "who_we_can_find_description_1": "Zbrojarzy - mamy w naszej bazie ludzi z doświadczeniem przy budowach mostów, wielkich hal oraz mniejszych inwestycji",
+    "who_we_can_find_description_2": "Elektryków - szukasz dobrego elektryka? Współpracujemy ze specjalistami! Nasi pracownicy posiadają uprawnienia do prac przy niskich i wysokich napięciach.",
+    "who_we_can_find_description_3": "Murarzy - zbudowanie domu czy wielkiej hali z naszymi doświadczonymi pracownikami to nie będzie problem.",
+    "who_we_can_find_description_4": "Pracowników ogólnobudowlanych - W swojej bazie mamy pracowników, którzy mają kilku oraz kilkunastoletnie doświadczenie w swojej specjalizacji, zatrudniamy również pomocników budowlanych.",
+    "contact_us_header": "Potrzebujesz pracowników?",
+    "contact_us_h3": "Zadzwoń lub napisz! ",
+    "contact_us_text": "Dzięki naszej elastyczności jesteśmy w stanie zapewnić Ci zespół złożony z różnych specjalistów. ",
+    "companyInfo": {
+      "name": "MIG Construction sp. z o.o.",
+      "taxData": "KRS: 0000918529",
+      "address": "Adres: ul. Święty Marcin 29/8 \n61-806 Poznań"
+    }
+  }
+}
